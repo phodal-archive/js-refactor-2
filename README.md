@@ -6,6 +6,8 @@
 
 ``说明``:  这段代码是Seajs中用来解析依赖的代码[util-deps.js](https://github.com/seajs/seajs/blob/master/src/util-deps.js)。 代码文件: [index.js](https://github.com/artisanstack/js-refactor-2/blob/master/lib/index.js)
 
+视频教程Demo1: [前端工程师技能训练之重构Sea.js](http://v.youku.com/v_show/id_XMTMxMDk0MjMyMA==.html)
+
 你要面对的挑战有:
 
 1. 重复代码 (Duplicated Code）
