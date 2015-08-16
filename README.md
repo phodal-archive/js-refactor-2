@@ -14,9 +14,12 @@
 4. 74个warning 4 typos;
 5. 小部门功能测试不全
 
+详细见CodeClimate报告: [index.js](https://codeclimate.com/github/artisanstack/js-refactor-2/lib/index.js)
+
 可以参考的书籍:
 
 《重构与模式》
+
 《重构: 改善既有代码的设计》
 
 ##License##
