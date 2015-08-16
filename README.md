@@ -1,7 +1,7 @@
 # js-refactor-2
 
 [![Build Status](https://travis-ci.org/artisanstack/js-refactor-2.svg)](https://travis-ci.org/artisanstack/js-refactor-2) 
-[![Test Coverage](https://codeclimate.com/github/artisanstack/js-refactor-2/badges/coverage.svg)](https://codeclimate.com/github/artisanstack/js-refactor-2/coverage)
+[![Coverage Status](https://coveralls.io/repos/phodal/js-refactor-2/badge.svg?branch=master&service=github)](https://coveralls.io/github/phodal/js-refactor-2?branch=master)
 [![Code Climate](https://codeclimate.com/github/artisanstack/js-refactor-2/badges/gpa.svg)](https://codeclimate.com/github/artisanstack/js-refactor-2)
 
 ``说明``:  这段代码是Seajs中用来解析依赖的代码[util-deps.js](https://github.com/seajs/seajs/blob/master/src/util-deps.js)

@@ -26,10 +26,11 @@
     "gulp-coveralls": "^0.1.0",
     "gulp-plumber": "^1.0.0",
     "gulp-istanbul": "^0.9.0",
-    "gulp-mocha": "^2.0.0"
+    "gulp-mocha": "^2.0.0",
+    "codeclimate-test-reporter": "0.0.4"
   },
   "scripts": {
-    "test": "make test"
+    "test": "gulp test"
   },
   "config": {
     "blanket": {
